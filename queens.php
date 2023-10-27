@@ -133,6 +133,182 @@
                     </div>
                 </div>
             </div>
+
+            <div class="cold-md-8">
+                <div class="card-bg-ligth">
+                    <div class="card-body">
+                        <h1 class="style-letters">
+                            Equipos
+                        </h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card card-body bg-dark bg-gradient">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h1 class="text-center text-light">
+                                    PRESIDENTES
+                                </h1>
+                            </div>
+
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Rivers.png" alt="Pio" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>Pio FC</h1>
+                                        <p>Info sobre rivers</p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Espe.png" alt="Aniquiladoras" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>Aniquiladoras</h1>
+                                        <p>Info sobre espe</p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Noe9977.png" alt="Mostoles" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>Ultimate Mostoles</h1>
+                                        <p>Info sobre presidenta</p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Violeta.png" alt="Troncas" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>Troncas</h1>
+                                        <p>Info sobre presidenta</p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Adri.png" alt="El barrio" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>El Barrio</h1>
+                                        <p>Info sobre presidenta</p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Mayichi.png" alt="1K" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>1K</h1>
+                                        <h3>Maite Carrillo (Mayichi)</h3>
+                                        <p class="justify-text">
+                                            Nacimiento: 13 de noviembre de 1993 (edad 29 años), Barcelona, España
+                                            Estatura: 1,58 m
+                                            Años activa: Desde 2015
+                                            Peso: 55 kg​
+                                            Residencia: Andorra
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Gemita.png" alt="Porcinas" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>Porcinas</h1>
+                                        <p>Info sobre presidenta</p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Hnos. Buyer.png" alt="XBuyer" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>XBuyer</h1>
+                                        <p>Info sobre presidenta</p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Morena Beltran.png" alt="Kunnitas" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>Kunnitas</h1>
+                                        <p>Info sobre presidenta</p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Gerard y Lisbeth.png" alt="Jijantas" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>Jijantas</h1>
+                                        <p>Info sobre presidenta</p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Spursito.png" alt="Rayo" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>Rayo de Barcelona</h1>
+                                        <p>Info sobre presidenta</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-4 p-2">
+                                <div class="card h-100">
+                                    <div class="overflow">
+                                        <img src="./Public/Images/Queens League/Presidentes/Lluna Clark.png" alt="Saiyans" style="width: 100%;">
+                                    </div>
+                                    <div>
+                                        <h1>Saiyans</h1>
+                                        <p>Info sobre presidenta</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </main>
 

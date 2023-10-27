@@ -1,31 +1,44 @@
-/* Estilos generales para el menú */
-.menu {
-    list-style-type: none;
+/*Forma de la parte de la introduccion*/
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
     padding: 0;
-    margin: 0;
+    max-width: 100%; /* Establece el ancho máximo del flex container */
 }
 
-.menu li {
-    display: inline;
-    margin-right: 20px;
+.introduction-item {
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 10px;
+    width: 1600px;
+    height: 350px;
 }
 
-.menu li a {
-    text-decoration: none;
+.introduction-item img {
+    max-width: 15%;
+    float: left;
+    margin-right: 10px;
 }
 
-/* Estilos para el menú en pantalla grande (mayor o igual a 768px de ancho) */
-@media (min-width: 768px) {
-    .menu {
-        background-color: #ffffff;
-    }
+.color-letters {
+    color: black;
+}
 
-    .menu li a {
-        color: rgb(0, 0, 0);
-        font-size: 20px; /* Aumentar el tamaño de la fuente */
-    }
+.justify-text {
+    text-align: justify;
+}
+.style-letters {
+    font-weight: bold;
+}
 
-    .menu li a:hover {
-        text-decoration: underline;
-    }
+.sub-letters {
+    color: blue;
+}
+
+.imagenes {
+    float: right;
+}
+
+.images-space {
+    padding: 30px;
 }
